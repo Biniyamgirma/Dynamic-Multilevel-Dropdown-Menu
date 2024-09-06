@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: #ffe6ad96;
+}
+/* main colors
+dark blu #0a005a
+#fc411e
+#f0f0f0 */
+.bg-dark-color{
+    background-color:#839ba6;
+}
+.btn-dark-color{
+    background-color: #3b333a;
+}
+.btn-dark-color:hover{
+    background-color: #eca093;
+}
+.dropdown-menu-dark-color{
+    background-color:#839ba6b4;
+    color: #563b53;
+}
+.color-item{
+    color: #7a5776;
+}
